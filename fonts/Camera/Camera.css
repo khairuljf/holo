@@ -1,0 +1,131 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 22/06/2016 15:21
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-19th-century-camera:before { content: "\f100"; }
+.flaticon-astro-photography:before { content: "\f101"; }
+.flaticon-battery-charger:before { content: "\f102"; }
+.flaticon-big-instagram-logo:before { content: "\f103"; }
+.flaticon-big-lens:before { content: "\f104"; }
+.flaticon-big-lens-hood:before { content: "\f105"; }
+.flaticon-big-square-target:before { content: "\f106"; }
+.flaticon-big-telephoto-lens:before { content: "\f107"; }
+.flaticon-camera-bag:before { content: "\f108"; }
+.flaticon-camera-box:before { content: "\f109"; }
+.flaticon-camera-brightness:before { content: "\f10a"; }
+.flaticon-camera-filter:before { content: "\f10b"; }
+.flaticon-camera-flash:before { content: "\f10c"; }
+.flaticon-camera-flash-1:before { content: "\f10d"; }
+.flaticon-camera-focus:before { content: "\f10e"; }
+.flaticon-camera-full-battery:before { content: "\f10f"; }
+.flaticon-camera-memory-card:before { content: "\f110"; }
+.flaticon-camera-movement:before { content: "\f111"; }
+.flaticon-camera-obscura:before { content: "\f112"; }
+.flaticon-camera-shutter:before { content: "\f113"; }
+.flaticon-camera-target:before { content: "\f114"; }
+.flaticon-camera-timer:before { content: "\f115"; }
+.flaticon-camera-tripod:before { content: "\f116"; }
+.flaticon-camera-wireless-remote:before { content: "\f117"; }
+.flaticon-cameraman:before { content: "\f118"; }
+.flaticon-circle-contrast:before { content: "\f119"; }
+.flaticon-cloudy-day:before { content: "\f11a"; }
+.flaticon-cmera-empty-battery:before { content: "\f11b"; }
+.flaticon-compact-folding-camera:before { content: "\f11c"; }
+.flaticon-contax-s-camera:before { content: "\f11d"; }
+.flaticon-contrast-square:before { content: "\f11e"; }
+.flaticon-custom-options:before { content: "\f11f"; }
+.flaticon-daguerrotype:before { content: "\f120"; }
+.flaticon-day-light:before { content: "\f121"; }
+.flaticon-developing-tray:before { content: "\f122"; }
+.flaticon-drying-picture:before { content: "\f123"; }
+.flaticon-fashion-photography:before { content: "\f124"; }
+.flaticon-film-camera:before { content: "\f125"; }
+.flaticon-film-stripe:before { content: "\f126"; }
+.flaticon-filter-uv:before { content: "\f127"; }
+.flaticon-fisheye-len:before { content: "\f128"; }
+.flaticon-flash-symbol:before { content: "\f129"; }
+.flaticon-focusing-target:before { content: "\f12a"; }
+.flaticon-frame-with-a-flower:before { content: "\f12b"; }
+.flaticon-hands-framing:before { content: "\f12c"; }
+.flaticon-horizontal-framing:before { content: "\f12d"; }
+.flaticon-house-and-shade:before { content: "\f12e"; }
+.flaticon-landscape-frame:before { content: "\f12f"; }
+.flaticon-lens-hood:before { content: "\f130"; }
+.flaticon-light-meterin:before { content: "\f131"; }
+.flaticon-light-metering-device:before { content: "\f132"; }
+.flaticon-monitor-with-picture:before { content: "\f133"; }
+.flaticon-multiple-shots:before { content: "\f134"; }
+.flaticon-no-photos:before { content: "\f135"; }
+.flaticon-old-film-camera:before { content: "\f136"; }
+.flaticon-old-film-roll:before { content: "\f137"; }
+.flaticon-old-photo:before { content: "\f138"; }
+.flaticon-oval-frame:before { content: "\f139"; }
+.flaticon-pentaprism:before { content: "\f13a"; }
+.flaticon-photo-album:before { content: "\f13b"; }
+.flaticon-photo-painting:before { content: "\f13c"; }
+.flaticon-photographer-umbrella:before { content: "\f13d"; }
+.flaticon-photographic-developer-liquid:before { content: "\f13e"; }
+.flaticon-photography-focus:before { content: "\f13f"; }
+.flaticon-picture-camera:before { content: "\f140"; }
+.flaticon-picture-camera-1:before { content: "\f141"; }
+.flaticon-picture-collage:before { content: "\f142"; }
+.flaticon-picture-frame:before { content: "\f143"; }
+.flaticon-picture-frame-1:before { content: "\f144"; }
+.flaticon-polaroid-camera:before { content: "\f145"; }
+.flaticon-polaroid-camera-with-paper:before { content: "\f146"; }
+.flaticon-polaroid-photograph:before { content: "\f147"; }
+.flaticon-polaroid-picture:before { content: "\f148"; }
+.flaticon-polaroid-pictures:before { content: "\f149"; }
+.flaticon-portrait-of-a-man:before { content: "\f14a"; }
+.flaticon-printing-picture:before { content: "\f14b"; }
+.flaticon-red-eye:before { content: "\f14c"; }
+.flaticon-red-light:before { content: "\f14d"; }
+.flaticon-reflex-camera:before { content: "\f14e"; }
+.flaticon-remote-release:before { content: "\f14f"; }
+.flaticon-remote-release-cable:before { content: "\f150"; }
+.flaticon-rule-of-thirds:before { content: "\f151"; }
+.flaticon-small-digital-camera:before { content: "\f152"; }
+.flaticon-smartphone-camera:before { content: "\f153"; }
+.flaticon-soft-box:before { content: "\f154"; }
+.flaticon-stereo-camera:before { content: "\f155"; }
+.flaticon-telephoto-lens:before { content: "\f156"; }
+.flaticon-thermometer-high-temperature:before { content: "\f157"; }
+.flaticon-three-slides:before { content: "\f158"; }
+.flaticon-tranfer-from-camera-to-computer:before { content: "\f159"; }
+.flaticon-underwater-picture:before { content: "\f15a"; }
+.flaticon-usb-cable:before { content: "\f15b"; }
+.flaticon-vertical-framing:before { content: "\f15c"; }
+.flaticon-vintage-camera-flash:before { content: "\f15d"; }
+.flaticon-wallet-photos:before { content: "\f15e"; }
+.flaticon-washing-picture:before { content: "\f15f"; }
+.flaticon-waterproof-camera:before { content: "\f160"; }
+.flaticon-wb-fluorescent:before { content: "\f161"; }
+.flaticon-wide-angle-len:before { content: "\f162"; }
+.flaticon-xqd-card:before { content: "\f163"; }
